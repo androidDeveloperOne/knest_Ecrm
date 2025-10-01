@@ -65,9 +65,8 @@
       }
     },
     "owner": "android-expodev-one",
-    "runtimeVersion": {
-      "policy": "nativeVersion"
-    },
+"runtimeVersion": "1.0.4"
+,
     "updates": {
       "url": "https://u.expo.dev/282153cb-ee1d-4d4a-ad9c-d008860b3b4c",
       "fallbackToCacheTimeout": 0,
